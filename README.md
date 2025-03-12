@@ -16,6 +16,8 @@
 
 - Oauth 기반의 소셜 로그인 연동
 - 온보딩, 회원 관련 페이지, 게임 준비 및 결과 페이지 구현
+- ESLint, Prettier 설정 등 프론트 개발 환경 세팅
+- Figma를 활용한 와이어프레임 및 디자인 구성
 
 ### 📢 구현 사항
 ![슬라이드1](https://github.com/user-attachments/assets/c96bc0e0-7cc8-42b7-83fa-5aea529b1ca3)
